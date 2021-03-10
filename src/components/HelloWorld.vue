@@ -65,7 +65,7 @@
           </div>
       </div>
     <!--content below top image-->
-    <div class="container spacer">
+    <div class="container spacer" itemscope itemprop="about">
       <h1 class="display-3">Why Choose Us?</h1>
       <br /><br /><br />
       <div class="row">

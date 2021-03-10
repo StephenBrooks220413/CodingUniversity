@@ -59,7 +59,7 @@
             </div>
             <!-- Grid container -->
             <br />
-            <h4>Founder / Developer: Stephen Brooks</h4>
+            <h4 itemprop="author">Founder / Developer: Stephen Brooks</h4>
             <hr />
             <p>
                 Graduate of Bryan University with and Assoicate Degree in Fullstack
