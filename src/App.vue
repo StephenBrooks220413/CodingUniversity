@@ -25,8 +25,8 @@
               >
             </li>
             <li class="nav-item">
-              <router-link class="nav-link active" to="/contact"
-                >Contact</router-link
+              <router-link class="nav-link active" to="/resources"
+                >Resources</router-link
               >
             </li>
             <li class="nav-item dropdown">
@@ -38,22 +38,22 @@
                 data-mdb-toggle="dropdown"
                 aria-expanded="false"
               >
-                Services
+                Contact
               </a>
               <ul
                 class="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><a class="dropdown-item" href="#">TeamChat</a></li>
+                <li><a class="dropdown-item" href="#">Support</a></li>
                 <li>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="#">Student(s)</a>
                 </li>
               </ul>
             </li>
           </ul>
           <router-link class="nav-link active" to="/school"
-            >School Info</router-link
+            >Profiles</router-link
           >
         </div>
       </div>

@@ -1,16 +1,94 @@
 <template>
-  <div class="hello container">
+  <div class="hello">
+      <div class="container">
+          <div class="row">
+              <div class="col-md">
+                  <div class="content">
+                      <h3 class="header">
+                          <i class="far icon fa-calendar-alt"></i>
+                          <br /> Booking
+                      </h3>
+                      <p class="body">
+                          Schedule 1-on-1
+                      </p>
+                      <a href="mailto:stephenbrooks714@gmail.com"
+                         class="btn text-white btn-info">
+                          Inquire
+                      </a>
+                  </div>
+              </div>
+              <div class="col-md">
+                  <div class="content">
+                      <h3 class="header">
+                          <i class="fas icon fa-book-open"></i>
+                          <br /> Open Source
+                      </h3>
+                      <p class="body">
+                          Contribute to Projects
+                      </p>
+                      <a href="mailto:stephenbrooks714@gmail.com"
+                         class="btn text-white btn-info">
+                          Inquire
+                      </a>
+                  </div>
+              </div>
+              <div class="col-md">
+                  <div class="content">
+                      <h3 class="header">
+                          <i class="fas icon fa-chalkboard-teacher"></i>
+                          <br /> Flexibility
+                      </h3>
+                      <p class="body">
+                          Learn Remotely
+                      </p>
+                      <a href="mailto:stephenbrooks714@gmail.com"
+                         class="btn text-white btn-info">
+                          Inquire
+                      </a>
+                  </div>
+              </div>
+              <div class="col-md">
+                  <div class="content">
+                      <h3 class="header">
+                          <i class="fas icon fa-laptop-code"></i>
+                          <br /> Adherence
+                      </h3>
+                      <p class="body">
+                          Best Practices
+                      </p>
+                      <a href="mailto:stephenbrooks714@gmail.com"
+                         class="btn text-white btn-info">
+                          Inquire
+                      </a>
+                  </div>
+              </div>
+          </div>
+      </div>
     <!--content below top image-->
-    <div class="container text-info spacer">
+    <div class="container spacer">
+      <h1 class="display-3">Why Choose Us?</h1>
+      <br /><br /><br />
       <div class="row">
-        <div class="col-md">
-          <div class="bg"></div>
-        </div>
-        <div class="col-md">
+          <div class="col-md-6">
+              <div class="bg"></div>
+          </div>
+        <div class="col-md-6 text-info">
           <h1>#1 Rated for Online Learning</h1>
           <h2>High Deliverable Content</h2>
           <h3>Experienced Instructors</h3>
           <h4>Learn Valuable Skills</h4>
+        </div>
+      </div>
+      <br /><br />
+      <div class="row">
+        <div class="col-md-6 text-info">
+          <h1>#1 Rated for Online Learning</h1>
+          <h2>High Deliverable Content</h2>
+          <h3>Experienced Instructors</h3>
+          <h4>Learn Valuable Skills</h4>
+        </div>
+        <div class="col-md-6">
+          <div class="bg"></div>
         </div>
       </div>
     </div>
@@ -86,61 +164,6 @@
         </div>
       </div>
     </div>
-    <h1 class="display-4">{{ msg }}</h1>
-    <br />
-    <form name="contact" netlify>
-      <!-- Name input -->
-      <div class="form-outline mb-4">
-        <input
-          type="text"
-          id="form4Example1"
-          name="name"
-          class="form-control"
-        />
-        <label class="form-label" for="form4Example1">Name</label>
-      </div>
-
-      <!-- Email input -->
-      <div class="form-outline mb-4">
-        <input
-          type="email"
-          id="form4Example2"
-          name="email"
-          class="form-control"
-        />
-        <label class="form-label" for="form4Example2">Email address</label>
-      </div>
-
-      <!-- Message input -->
-      <div class="form-outline mb-4">
-        <textarea
-          class="form-control"
-          name="message"
-          id="form4Example3"
-          rows="4"
-        ></textarea>
-        <label class="form-label" for="form4Example3">Message</label>
-      </div>
-
-      <!-- Checkbox -->
-      <div class="form-check d-flex justify-content-center mb-4">
-        <input
-          class="form-control"
-          type="date"
-          name="date"
-          value=""
-          id="form4Example4"
-        />
-        <label class="form-check-label" for="form4Example4">
-          Follow Up Date
-        </label>
-      </div>
-
-      <!-- Submit button -->
-      <button type="submit" class="btn btn-primary btn-block mb-3">
-        SEND
-      </button>
-    </form>
   </div>
 </template>
 
@@ -157,8 +180,7 @@ export default {
 <style scoped lang="scss">
 @import "../assets/styles.scss";
 .hello {
-  padding-bottom: 120px;
-  max-width: 650px;
+  width: 100%;
 
   input {
     background-color: lightgrey !important;
