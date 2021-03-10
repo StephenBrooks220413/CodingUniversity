@@ -52,7 +52,7 @@
                                       Choose from any of our languages to learn.
                                   </p>
                                   <h1>$30</h1>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                  <a href="#" class="btn btn-primary">Inquire</a>
                               </div>
                               <div class="card-footer text-muted">Any Instructor</div>
                           </div>
@@ -66,7 +66,7 @@
                                       Choose from any of our Frameworks to learn.
                                   </p>
                                   <h1>$50</h1>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                  <a href="#" class="btn btn-primary">Inquire</a>
                               </div>
                               <div class="card-footer text-muted">Specific Instructor</div>
                           </div>
@@ -80,7 +80,7 @@
                                       Learn A pre-built stack or choose how it's structured
                                   </p>
                                   <h1>$90</h1>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                  <a href="#" class="btn btn-primary">Inquire</a>
                               </div>
                               <div class="card-footer text-muted">Any Instructor</div>
                           </div>
@@ -93,8 +93,8 @@
                                   <p class="card-text">
                                       Learn with an instructor in a virtual environment
                                   </p>
-                                  <h1>$60/mth</h1>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                                  <h1>$120/mth</h1>
+                                  <a href="#" class="btn btn-primary">Inquire</a>
                               </div>
                               <div class="card-footer text-muted">Specific Instructor</div>
                           </div>

@@ -74,18 +74,22 @@
           </div>
         <div class="col-md-6 text-info">
           <h1>#1 Rated for Online Learning</h1>
+          <br />
           <h2>High Deliverable Content</h2>
           <h3>Experienced Instructors</h3>
+          <br />
           <h4>Learn Valuable Skills</h4>
         </div>
       </div>
       <br /><br />
       <div class="row">
         <div class="col-md-6 text-info">
-          <h1>#1 Rated for Online Learning</h1>
-          <h2>High Deliverable Content</h2>
-          <h3>Experienced Instructors</h3>
-          <h4>Learn Valuable Skills</h4>
+          <h1>Experienced Instructors</h1>
+          <br />
+          <h2>Choose How You Learn</h2>
+          <h3>Downloadable Content</h3>
+          <br />
+          <h4>Learn on the Go</h4>
         </div>
         <div class="col-md-6">
           <div class="bg"></div>
