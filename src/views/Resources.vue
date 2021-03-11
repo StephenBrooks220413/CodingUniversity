@@ -12,12 +12,14 @@
                     <br /><br />
                 </div>
                 <div class="col-md">
+                     <br />
                     <i class="fas icon fa-journal-whills"></i> <br />
                     Course Structure <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
                     <br /><br />
                 </div>
                 <div class="col-md">
+                    <br />
                     <i class="fas icon fa-terminal"></i> <br />
                     Welcome 2 Coding <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
@@ -32,12 +34,14 @@
                     <br /><br />
                 </div>
                 <div class="col-md">
+                    <br />
                     <i class="fas icon fa-code-branch"></i> <br />
                     Needed Materials <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
                     <br /><br />
                 </div>
                 <div class="col-md">
+                    <br />
                     <i class="far icon fa-file"></i> <br />
                     Resume Template <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
