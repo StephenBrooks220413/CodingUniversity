@@ -83,7 +83,8 @@
                                 <!-- Facebook -->
                                 <a class="btn btn-primary btn-floating m-1"
                                    style="background-color: #3b5998;"
-                                   href="#!"
+                                   href="https://facebook.com/krammer439298"
+                                   target="_blank"
                                    role="button">
                                     <i class="fab fa-facebook-f"></i>
                                 </a>
@@ -91,7 +92,7 @@
                                 <!-- Twitter -->
                                 <a class="btn btn-primary btn-floating m-1"
                                    style="background-color: #55acee;"
-                                   href="#!"
+                                   href="tel:580-309-0236"
                                    role="button">
                                     <i class="fas fa-headset"></i>
                                 </a>
@@ -99,20 +100,22 @@
                                 <!-- Google -->
                                 <a class="btn btn-primary btn-floating m-1"
                                    style="background-color: #dd4b39;"
-                                   href="#!"
+                                   href="stephenbrooks714@gmail.com"
                                    role="button"><i class="fas fa-at"></i>></a>
 
                                 <!-- Linkedin -->
                                 <a class="btn btn-primary btn-floating m-1"
                                    style="background-color: #0082ca;"
-                                   href="#!"
+                                   href="https://www.linkedin.com/in/stephen-brooks-897a1110a/"
+                                   target="_blank"
                                    role="button">
                                     <i class="fab fa-linkedin-in"></i>
                                 </a>
                                 <!-- Github -->
                                 <a class="btn btn-primary btn-floating m-1"
                                    style="background-color: #333333;"
-                                   href="#!"
+                                   href="https://github.com/StephenBrooks220413"
+                                   target="_blank"
                                    role="button">
                                     <i class="fab fa-github"></i>
                                 </a>
