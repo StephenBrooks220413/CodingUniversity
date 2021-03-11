@@ -6,6 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md">
+                    <br />
                     <i class="fas icon fa-university"></i> <br />
                     Student Application <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
@@ -28,6 +29,7 @@
             </div>
             <div class="row">
                 <div class="col-md">
+                    <br />
                     <i class="fas icon fa-chalkboard"></i> <br />
                     Instructor Info <br />
                     <a href="~/src/assets/app.doc" class="btn btn-outline-primary" download="app.doc">DOWNLOAD</a>
